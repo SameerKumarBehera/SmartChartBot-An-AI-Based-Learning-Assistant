@@ -16,9 +16,27 @@ SmartChartBot serves as an educational tool for students and learners, providing
 - Core Java
 - (Optional) HTML/CSS for documentation or structured output (if needed)
 
+
 ## 🚀 How to Run
-1. Clone the repository:
+
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/SmartChartBot-AI.git
-   cd SmartChartBot-AI
+   git clone https://github.com/<your-username>/SmartChartBot-An-AI-Based-Learning-Assistant.git
+   cd SmartChartBot-An-AI-Based-Learning-Assistant
+2. Compile and Run:
+    ```bash  
+   javac -d bin src/com/yourusername/SmartChartBot/*.java
+   java -cp bin com.yourusername.SmartChartBot.Main
+    
+Replace <your-username> with your GitHub username.
+kotlin
+   ```
+   This should now reflect your actual project name correctly!
+
+
+
+
+
+
+
 
