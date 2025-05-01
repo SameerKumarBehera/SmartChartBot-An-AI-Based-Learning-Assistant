@@ -1,0 +1,13 @@
+what is the capital of india=New Delhi.
+who is the prime minister of india=The Honorable Prime Minister of India is Shri Narendra Modi.
+who is the president of india=The Honorable President of India is Smt. Droupadi Murmu.
+who is the founder of microsoft=Bill Gates.
+hii=Hii there! How can I help you today?
+hello=Hello! How can I assist you today?
+what is your name=My name is SmartChatBot.
+what day is it=Today is [Day].
+what is the time=The current time is [Time].
+what is your favorite color=I don't have a favorite color, but I think all colors are nice!
+what can you do=I can answer your questions, tell you jokes, and more!
+who are you=I am a friendly AI assistant, here to help you with anything!
+what date is today=cd "c:\Users\s\Desktop\SmartChatBot\" ; if ($?) { javac SmartChatBot.java } ; if ($?) { java SmartChatBot }
