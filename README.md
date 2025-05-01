@@ -29,6 +29,7 @@ SmartChartBot serves as an educational tool for students and learners, providing
    java -cp bin com.yourusername.SmartChartBot.Main
     
 Replace <your-username> with your GitHub username.
+
 kotlin
    ```
    This should now reflect your actual project name correctly!
